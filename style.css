@@ -42,15 +42,15 @@ body {
 .content .left-side .details {
     margin: 14px;
     text-align: center;
-}
-.content .left-side .details i {
+/* }
+.content .left-side .details i{
     font-size: 30px;
-    color: #3e2093;
+    color: #3e2093; 
     margin-bottom: 10px;
-}
+} 
 .content .left-side .details .topic {
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 500; */
 }
 .contanier .content .right-side {
     width: 75%;
